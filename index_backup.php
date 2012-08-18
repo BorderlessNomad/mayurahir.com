@@ -3,7 +3,6 @@
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
         <title>MAYUR AHIR</title>
-		<link rel="icon" type="image/png" href="./img/favicon.png"/>
         <link href='http://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:light,regular,bold|Voces' rel='stylesheet' type='text/css'/>
         <!--[if IE 6]>
         <script type="text/javascript" src="./js/png.js"></script>
@@ -21,7 +20,7 @@
         <link rel="stylesheet" href="./css/jquery.fancybox.css" type="text/css" />
         <link rel="stylesheet" href="./css/colortip.css" type="text/css" />
 
-        <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+        <script type="text/javascript" src="http://code.jquery.com/jquery-latest.min.js"></script>
         <script type="text/javascript" src="./js/jquery.fancybox.min.js"></script>
         <script type="text/javascript" src="./js/jquery.colortip.js"></script>
         <script type="text/javascript" src="./js/jquery.ufvalidator.1.0.4.js"></script>
@@ -177,18 +176,18 @@
                     <!-- BEGIN WORK EXPERIENCE -->
                     <div id="work_experience">
                         <h2 class="title">Work Experience</h2>
-			<div class="item">
+                        <div class="item">
                             <h4><span>July 2012 - Present</span>Platform Geek</h4>
                             <h5>One97 Communications Pvt. Ltd. (Full-time)</h5>
                             <p>Overlooking and designing the new architectural platform for Paytm.com. Using PHP, MongoDB, Node.js, MySQL, Backbone.js</p>
                         </div> <!-- end item -->
-                        <div class="item">
-                            <h4><span>June 2011 - present</span>Software Engineer</h4>
+			<div class="item">
+                            <h4><span>June 2011 - June 2012</span>Sr. Software Engineer</h4>
                             <h5>Sutra Services Pvt. Ltd. (Full-time)</h5>
                             <p>Developing SaaS based HR management platform with powerful communication and collaboration tools; ideal for Startups and SMEs. As a second developer my role is to develop and maintain new features/functionalities, Enhancing existing features, Testing the features. Along with developing lifecycle of a product, including strategy, vision, design, UX, architecture, deployment etc.</p>
                         </div> <!-- end item -->
                         <div class="item">
-                            <h4><span>Aug 2006 - June 2011</span>Developer and Designer </h4>
+                            <h4><span>Aug 2006 - Present</span>Founder and Lead Developer</h4>
                             <h5>E|ANTRIX (Contract / Part-time)</h5>
                             <p>Low cost quality freelance work for various industries situated Pan-India. Right from the design/UI to development/programming; with Search Engine Optimization and other tasks related to product such as marketing etc.</p>
                         </div> <!-- end item -->

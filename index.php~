@@ -177,11 +177,6 @@
                     <!-- BEGIN WORK EXPERIENCE -->
                     <div id="work_experience">
                         <h2 class="title">Work Experience</h2>
-			<div class="item">
-                            <h4><span>July 2012 - Present</span>Platform Geek</h4>
-                            <h5>One97 Communications Pvt. Ltd. (Full-time)</h5>
-                            <p>Overlooking and designing the new architectural platform for Paytm.com. Using PHP, MongoDB, Node.js, MySQL, Backbone.js</p>
-                        </div> <!-- end item -->
                         <div class="item">
                             <h4><span>June 2011 - present</span>Software Engineer</h4>
                             <h5>Sutra Services Pvt. Ltd. (Full-time)</h5>
