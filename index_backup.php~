@@ -3,7 +3,6 @@
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
         <title>MAYUR AHIR</title>
-        <link rel="icon" type="image/png" href="./img/favicon.png"/>
         <link href='http://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:light,regular,bold|Voces' rel='stylesheet' type='text/css'/>
         <!--[if IE 6]>
         <script type="text/javascript" src="./js/png.js"></script>
@@ -21,7 +20,7 @@
         <link rel="stylesheet" href="./css/jquery.fancybox.css" type="text/css" />
         <link rel="stylesheet" href="./css/colortip.css" type="text/css" />
 
-        <script type="text/javascript" src="./js/jquery-latest.min.js"></script>
+        <script type="text/javascript" src="http://code.jquery.com/jquery-latest.min.js"></script>
         <script type="text/javascript" src="./js/jquery.fancybox.min.js"></script>
         <script type="text/javascript" src="./js/jquery.colortip.js"></script>
         <script type="text/javascript" src="./js/jquery.ufvalidator.1.0.4.js"></script>
@@ -65,36 +64,29 @@
                         <li><a href="http://twitter.com/#!/ahirmayur" target="_blank" title="Twitter" class="blue"><img src="./img/twitter.png" width="32" height="32" alt="Twitter" /></a></li>
                         <li><a href="http://plus.google.com/100464866035861410995" target="_blank" title="Google+" class="white"><img src="./img/google-plus.png" width="32" height="32" alt="Google+" /></a></li>
                         <li><a href="skype:ahirmayur" target="_blank" title="Skype" class="skyblue"><img src="./img/skype.png" width="32" height="32" alt="Skype" /></a></li>
-                        <li><a href="http://www.github.com/ahirmayur" target="_blank" title="GitHub" class="black"><img src="./img/github.png" width="32" height="32" alt="GitHub" /></a></li>
                         <li class="last"><a href="http://in.linkedin.com/in/ahirmayur" target="_blank" title="LinkedIn" class="blue-dark"><img src="./img/linkedin.png" width="32" height="32" alt="LinkedIn" /></a></li>
                     </ul><!-- end .social_panel list -->
 
                     <ul class="main_panel">
-                        <li><a href="personal/resume.pdf" title="Download CV" class="print_button white"><img src="./img/print.png" width="32" height="32" alt="Download CV" /></a></li>
-                        <li><a href="mailto:mayur@mayurahir.com" title="Contact me" class="white"><img src="./img/contact.png" width="32" height="32" alt="Contact me" /></a></li>
-                        <li class="last"><a href="personal/code_samples.zip" title="Download My Code Samples" class="white"><img src="./img/download.png" width="32" height="32" alt="Download CV" /></a></li>
-
+                        <li><a href="cv.pdf" title="Download CV" class="white"><img src="./img/download.png" width="32" height="32" alt="Download CV" /></a></li>
+                        <li><a href="#" title="Print CV" class="print_button white"><img src="./img/print.png" width="32" height="32" alt="Print CV" /></a></li>
+                        <li class="last"><a href="#contact" title="Contact me" class="white"><img src="./img/contact.png" width="32" height="32" alt="Contact me" /></a></li>
                     </ul><!-- end .main_panel list -->
-
+                    
                     <ul class="main_panel">
                         <li class="last"><a href="http://www.mayurahir.com/blog/" title="Blog" class="white" target="_blank"><img src="./img/blog.png" width="32" height="32" alt="Blog" /></a></li>
                     </ul><!-- end .main_panel list -->
 
-                    <h1 id="myname">Mayur Ahir</h1>
-                    <h3 id="subtitle">Hacker, Hustler, Human <br/>who fell in &hearts; with Code</h3>
+                    <h1>Mayur Ahir</h1>
+                    <h3>web designer &amp; developer</h3>
                     <div class="top_data">
                         <ul class="info">
-                            <?php /*
                             <li class="phone">(+91) 90 2910 2835</li>
                             <li class="info">Single, Male</li>
-                            <li class="email"><a href="mailto:mayur@mayurahir.com">mayur@mayurahir.com</a></li>
+                            <li class="email"><a href="mailto:ahirmayur@gmail.com">ahirmayur@gmail.com</a></li>
                             <li class="birthday">18<sup>th</sup> December, 1989</li>
                             <li class="website"><a href="#">www.mayurahir.com</a></li>
                             <li class="address">Mumbai, Maharashtra, IN</li>
-                            */ ?>
-                            <li class="info">Single, (&#9794;) Male living in</li>
-                            <li class="address">Mumbai, Maharashtra, IN</li>
-                            <li class="email">Reach me on, <a href="mailto:mayur@mayurahir.com">mayur@mayurahir.com</a></li>
                         </ul>
                         <!-- end .info list -->
                         <div class="quote">
@@ -187,106 +179,90 @@
                         <div class="item">
                             <h4><span>July 2012 - Present</span>Platform Geek</h4>
                             <h5>One97 Communications Pvt. Ltd. (Full-time)</h5>
-                            <div id="projects" class="not_top">
-                                <div class="item">
-                                    <h4>Paytm</h4>
-                                    <p>Overlooking and designing the new architectural platform for Paytm.com's core API. Using PHP, MongoDB, Node.js, MySQL, Backbone.js</p>
-                                </div> 
-                            </div>
+                            <p>Overlooking and designing the new architectural platform for Paytm.com. Using PHP, MongoDB, Node.js, MySQL, Backbone.js</p>
                         </div> <!-- end item -->
-                        <div class="item">
+			<div class="item">
                             <h4><span>June 2011 - June 2012</span>Sr. Software Engineer</h4>
                             <h5>Sutra Services Pvt. Ltd. (Full-time)</h5>
-                            <div id="projects" class="not_top">
-                                <div class="item">
-                                    <h4>sumHR</h4>
-                                    <p>Developing SaaS based HR management platform with powerful communication and collaboration tools; ideal for Startups and SMEs. As a second developer my role is to develop and maintain new features/functionalities, Enhancing existing features, Testing the features. Along with developing lifecycle of a product, including strategy, vision, design, UX, architecture, deployment etc.</p>
-                                </div> 
-                            </div>
-                            <div id="projects" class="not_top">
-                                <div class="item">
-                                    <h4>GreatIndianJobs</h4>
-                                    <p>Developing and maintaining Wordpress based free Job Board.</p>
-                                </div> 
-                            </div>
+                            <p>Developing SaaS based HR management platform with powerful communication and collaboration tools; ideal for Startups and SMEs. As a second developer my role is to develop and maintain new features/functionalities, Enhancing existing features, Testing the features. Along with developing lifecycle of a product, including strategy, vision, design, UX, architecture, deployment etc.</p>
                         </div> <!-- end item -->
                         <div class="item">
-                            <h4><span>Aug 2006 - June 2011</span>Developer and Designer </h4>
+                            <h4><span>Aug 2006 - Present</span>Founder and Lead Developer</h4>
                             <h5>E|ANTRIX (Contract / Part-time)</h5>
                             <p>Low cost quality freelance work for various industries situated Pan-India. Right from the design/UI to development/programming; with Search Engine Optimization and other tasks related to product such as marketing etc.</p>
-                            <div id="projects" class="not_top">
-                                <div class="item">
-                                    <h4><span>Dec 2010 - Mar 2011</span>VideoCentral</h4>
-                                    <h5>O<sub>2</sub> Supply Incubator</h5>
-                                    <p>An online video portal where users can watch, comment, socially shares the educational videos.                        </p>
-                                </div> 
-                                <!-- end item -->
-                                <div class="item">
-                                    <h4><span>Feb 2011 - Apr 2011</span>Inlite </h4>
-                                    <h5>In-Lite Products</h5>
-                                    <p>Online catalog and product portfolio for Mumbai based LED Product manufacturers.</p>
-                                </div> <!-- end item -->
-                                <div class="item">
-                                    <h4><span>Dec 2010 - Jan 2011</span>Quizio </h4>
-                                    <h5>Symbiosis Centre for Management and Human Resource Development</h5>
-                                    <p>Online Quiz for Neev 2011 (Annual Tech Fest of SIMR, Pune).</p>
-                                </div> <!-- end item -->
-                                <div class="item">
-                                    <h4><span>Aug 2010 - Mar 2011</span>GyanCentral </h4>
-                                    <h5>O<sub>2</sub> Supply Incubator</h5>
-                                    <p>Education portal to serve the students with full of information related to MBA, Engineering etc Courses and institutions.</p>
-                                </div> <!-- end item -->
-                                <div class="item">
-                                    <h4><span>Apr 2010 - Aug 2010</span>GyanForums </h4>
-                                    <h5>O<sub>2</sub> Supply Incubator</h5>
-                                    <p>Online forum/community where users can post, view and get informed about latest happening around the education realm.</p>
-                                </div> 
-                                <!-- end item -->
-                                <div class="item">
-                                    <h4><span>Feb 2010 - Apr 2010</span>DSept9 </h4>
-                                    <h5>The Septmber 9 Fashions</h5>
-                                    <p>A website for Mumbai's leading fashion/garment manufacturer.</p>
-                                </div> 
-                                <!-- end item -->
-                                <div class="item">
-                                    <h4><span>Dec 2009 - Feb 2010</span>JSolutions </h4>
-                                    <h5>jSolutions, LLC</h5>
-                                    <p>An online portfolio for software developer and designer.</p>
-                                </div> 
-                                <!-- end item -->
-                                <div class="item">
-                                    <h4><span>Aug 2009 - Oct 2009</span>Lashkaria Group </h4>
-                                    <h5>Lashkaria Construction Pvt. Ltd.</h5>
-                                    <p>An online portfolio and introductory dynamic web portal for India's leading Real Estate developer.</p>
-                                </div> 
-                                <!-- end item -->
-                                <div class="item">
-                                    <h4><span>Dec 2008 - Jun 2009</span>Sapan Properties </h4>
-                                    <h5>Sapan Properties Pvt. Ltd.</h5>
-                                    <p>An online portfolio and introductory dynamic web portal for India's leading Real Estate developer.</p>
-                                </div> 
-                                <!-- end item -->
-                                <div class="item">
-                                    <h4><span>Aug 2008 - Nov 2008</span>KJSIEIT CSI </h4>
-                                    <h5>Computer Society of India, Somaiya Students' Chapter</h5>
-                                    <p>Inter-college community portal for students to share and learn.</p>
-                                </div> 
-                                <!-- end item -->
-                                <div class="item">
-                                    <h4><span>Sep 2006 - Aug 2008</span>TechKranti </h4>
-                                    <h5>BMApps Labs</h5>
-                                    <p>
-                                        TechKranti was the bulletin board for all those who are in need for urgent consultancy of various syllabus, course materials etc.<br/>
-                                        It had also provided the vast amount of free knowledge and attracted students form Engineering, Medical, Pharmacy and Management institutes.
-                                    </p>
-                                </div> 
-                                <!-- end item -->
-                            </div>                        
                         </div> <!-- end item -->
                     </div>
                     <!-- END WORK EXPERIENCE -->
                     <!-- BEGIN PROJECTS -->
-
+                    <div id="projects" class="not_top">
+                        <h2>Freelance Projects</h2>
+                        <div class="item">
+                            <h4><span>Dec 2010 - Mar 2011</span>VideoCentral</h4>
+                            <h5>O<sub>2</sub> Supply Incubator</h5>
+                            <p>An online video portal where users can watch, comment, socially shares the educational videos.                        </p>
+                        </div> 
+                        <!-- end item -->
+                        <div class="item">
+                            <h4><span>Feb 2011 - Apr 2011</span>Inlite </h4>
+                            <h5>In-Lite Products</h5>
+                            <p>Online catalog and product portfolio for Mumbai based LED Product manufacturers.</p>
+                        </div> <!-- end item -->
+                        <div class="item">
+                            <h4><span>Dec 2010 - Jan 2011</span>Quizio </h4>
+                            <h5>Symbiosis Centre for Management and Human Resource Development</h5>
+                            <p>Online Quiz for Neev 2011 (Annual Tech Fest of SIMR, Pune).</p>
+                        </div> <!-- end item -->
+                        <div class="item">
+                            <h4><span>Aug 2010 - Mar 2011</span>GyanCentral </h4>
+                            <h5>O<sub>2</sub> Supply Incubator</h5>
+                            <p>Education portal to serve the students with full of information related to MBA, Engineering etc Courses and institutions.</p>
+                        </div> <!-- end item -->
+                        <div class="item">
+                            <h4><span>Apr 2010 - Aug 2010</span>GyanForums </h4>
+                            <h5>O<sub>2</sub> Supply Incubator</h5>
+                            <p>Online forum/community where users can post, view and get informed about latest happening around the education realm.</p>
+                        </div> 
+                        <!-- end item -->
+                        <div class="item">
+                            <h4><span>Feb 2010 - Apr 2010</span>DSept9 </h4>
+                            <h5>The Septmber 9 Fashions</h5>
+                            <p>A website for Mumbai's leading fashion/garment manufacturer.</p>
+                        </div> 
+                        <!-- end item -->
+                        <div class="item">
+                            <h4><span>Dec 2009 - Feb 2010</span>JSolutions </h4>
+                            <h5>jSolutions, LLC</h5>
+                            <p>An online portfolio for software developer and designer.</p>
+                        </div> 
+                        <!-- end item -->
+                        <div class="item">
+                            <h4><span>Aug 2009 - Oct 2009</span>Lashkaria Group </h4>
+                            <h5>Lashkaria Construction Pvt. Ltd.</h5>
+                            <p>An online portfolio and introductory dynamic web portal for India's leading Real Estate developer.</p>
+                        </div> 
+                        <!-- end item -->
+                        <div class="item">
+                            <h4><span>Dec 2008 - Jun 2009</span>Sapan Properties </h4>
+                            <h5>Sapan Properties Pvt. Ltd.</h5>
+                            <p>An online portfolio and introductory dynamic web portal for India's leading Real Estate developer.</p>
+                        </div> 
+                        <!-- end item -->
+                        <div class="item">
+                            <h4><span>Aug 2008 - Nov 2008</span>KJSIEIT CSI </h4>
+                            <h5>Computer Society of India, Somaiya Students' Chapter</h5>
+                            <p>Inter-college community portal for students to share and learn.</p>
+                        </div> 
+                        <!-- end item -->
+                        <div class="item">
+                            <h4><span>Sep 2006 - Aug 2008</span>TechKranti </h4>
+                            <h5>BMApps Labs</h5>
+                            <p>
+                                TechKranti was the bulletin board for all those who are in need for urgent consultancy of various syllabus, course materials etc.<br/>
+                                It had also provided the vast amount of free knowledge and attracted students form Engineering, Medical, Pharmacy and Management institutes.
+                            </p>
+                        </div> 
+                        <!-- end item -->
+                    </div>
                     <!-- END PROJECTS -->
                     <!-- BEGIN PROJECTS -->
                     <div id="miscellaneous" class="not_top">
@@ -448,43 +424,44 @@
 
             <!-- END CONTAINER -->
         </div>
-
-        <?php /*
-          <div id="bottom_container">
-          <div id="contact_form">
-          <h2><a name="contact">Contact me</a></h2>
-          <!-- BEGIN CONTACT FORM -->
-          <form name="contactme" id="contactme" action="#" method="post">
-          <table width="500" cellpadding="0" cellspacing="0" border="0">
-          <tr>
-          <td width="230" height="40">
-          <label for="name">Name: <span>*</span></label>
-          <input type="text" id="name" name="name" class="text_field req-string" tabindex="1"/>
-          </td>
-          <td rowspan="2">
-          <label for="phone" style="width:75px; margin-bottom: 5px;">Message: <span>*</span></label>
-          <textarea name="message" id="message" rows="5" cols="10" tabindex="4"></textarea>
-          </td>
-          </tr>
-          <tr>
-          <td  height="40">
-          <label for="phone">Phone: <span>*</span></label>
-          <input type="text" id="phone" name="phone" class="text_field req-string" tabindex="2" />
-          </td>
-          </tr>
-          <tr>
-          <td height="40">
-          <label for="email">Email: <span>*</span></label>
-          <input type="text" id="email" name="email" class="text_field req-email"  tabindex="3"/>
-          </td>
-          <td><div id="errorDiv1" class="error-div"></div>
-          <input type="submit" id="submit" name="submit" value="Send message!" tabindex="5"/>
-          </td>
-          </tr>
-          </table>
-          </form><!-- end contact form -->
-          </div><!-- end contact -->
-          </div>
-         */ ?>
+	<?php 
+	/*
+        <div id="bottom_container">
+            <div id="contact_form">
+                <h2><a name="contact">Contact me</a></h2>
+                <!-- BEGIN CONTACT FORM -->
+                <form name="contactme" id="contactme" action="#" method="post">
+                    <table width="500" cellpadding="0" cellspacing="0" border="0">
+                        <tr>
+                            <td width="230" height="40">
+                                <label for="name">Name: <span>*</span></label>
+                                <input type="text" id="name" name="name" class="text_field req-string" tabindex="1"/>
+                            </td>
+                            <td rowspan="2">
+                                <label for="phone" style="width:75px; margin-bottom: 5px;">Message: <span>*</span></label>
+                                <textarea name="message" id="message" rows="5" cols="10" tabindex="4"></textarea>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td  height="40">
+                                <label for="phone">Phone: <span>*</span></label>
+                                <input type="text" id="phone" name="phone" class="text_field req-string" tabindex="2" />
+                            </td>
+                        </tr>
+                        <tr>
+                            <td height="40">
+                                <label for="email">Email: <span>*</span></label>
+                                <input type="text" id="email" name="email" class="text_field req-email"  tabindex="3"/>
+                            </td>
+                            <td><div id="errorDiv1" class="error-div"></div>
+                                <input type="submit" id="submit" name="submit" value="Send message!" tabindex="5"/>
+                            </td>
+                        </tr>
+                    </table>
+                </form><!-- end contact form -->
+            </div><!-- end contact -->
+        </div>
+	*/
+	?>
     </body>
 </html>
