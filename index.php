@@ -215,7 +215,7 @@
                             </div>
                         </div> <!-- end item -->
                         <div class="item">
-                            <h4><span>Aug 2006 - June 2011</span>Developer and Designer </h4>
+                            <h4><span>Aug 2006 - June 2011</span>Founder and Lead Developer </h4>
                             <h5>E|ANTRIX (Contract / Part-time)</h5>
                             <p>Low cost quality freelance work for various industries situated Pan-India. Right from the design/UI to development/programming; with Search Engine Optimization and other tasks related to product such as marketing etc.</p>
                             <div id="projects" class="not_top">
