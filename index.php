@@ -115,39 +115,41 @@
                     <div class="item">
                         <h4>Programming</h4>
                         <ul class="skills">
-                            <li><span class="expand" data-width="90"></span><em>PHP + Yii/Zend/CakePHP MVC</em></li>
-                            <li><span class="expand" data-width="80"></span><em>MySQL & MongoDB</em></li>
-                            <li><span class="expand" data-width="75"></span><em>JavaScript + jQuery/KnockoutJS</em></li>
-                            <li><span class="expand" data-width="90"></span><em>xHTML & CSS</em></li>
-                            <li><span class="expand" data-width="55"></span><em>NodeJS</em></li>
-                            <li><span class="expand" data-width="80"></span><em>C/C++/Java</em></li>                         
+                            <li><span class="expand" data-width="90"></span><em>PHP + Yii/Zend/CakePHP MVC Frameworks</em></li>
+                            <li><span class="expand" data-width="80"></span><em>MySQL & MongoDB/NoSQL</em></li>
+                            <li><span class="expand" data-width="80"></span><em>JavaScript + jQuery/Knockout.js</em></li>
+                            <li><span class="expand" data-width="75"></span><em>(x)HTML(5) & CSS(3) + Backbone.js</em></li>
+                            <li><span class="expand" data-width="70"></span><em>Node.js + Express + WebSockets</em></li>
+                            <li><span class="expand" data-width="65"></span><em>C/C++/Java Core & Mobile Apps</em></li>                         
                         </ul>
                     </div>
                     <div class="item">
                         <h4>Graphics and media</h4>
                         <ul class="skills">
-                            <li><span class="expand" data-width="70"></span><em>Photoshop</em></li>
-                            <li><span class="expand" data-width="60"></span><em>Corel Draw</em></li>
-                            <li><span class="expand" data-width="60"></span><em>Flash</em></li>
-                            <li><span class="expand" data-width="40"></span><em>Illustrator</em></li>                   
+                            <li><span class="expand" data-width="60"></span><em>Photoshop/Core Draw</em></li>
+                            <li><span class="expand" data-width="40"></span><em>Flash/Illustrator</em></li>
                         </ul>
                     </div>
                     <div class="item">
-                        <h4>Software Engineering</h4>
+                        <h4>Forum Boards</h4>
                         <ul class="skills">
-                            <li><span class="expand" data-width="85"></span><em>Agile & SCRUM</em></li>
-                            <li><span class="expand" data-width="75"></span><em>Reverse Engineering</em></li>
-                            <li><span class="expand" data-width="80"></span><em>Project Management</em></li>                   
+                            <li><span class="expand" data-width="65"></span><em>vBulletin/IPB/phpBB</em></li>                 
+                        </ul>
+                    </div>
+                    <div class="item">
+                        <h4>CMS</h4>
+                        <ul class="skills">
+                            <li><span class="expand" data-width="70"></span><em>WordPress/Joomla/Drupal</em></li>              
                         </ul>
                     </div>
                 </div>
                 <div class="right_content">
                     <div class="item">
-                        <h4>CMS</h4>
+                        <h4>Cloud Computing</h4>
                         <ul class="skills">
-                            <li><span class="expand" data-width="75"></span><em>Wordpress</em></li>
-                            <li><span class="expand" data-width="80"></span><em>Joomla</em></li>
-                            <li><span class="expand" data-width="60"></span><em>Drupal</em></li>                     
+                            <li><span class="expand" data-width="80"></span><em>Amazon AWS EC2 & RDS</em></li>
+                            <li><span class="expand" data-width="70"></span><em>Microsoft Azure</em></li>
+                            <li><span class="expand" data-width="85"></span><em>Linode & RackSpace</em></li>                     
                         </ul>
                     </div>
                     <div class="item">
@@ -159,19 +161,11 @@
                         </ul>
                     </div>
                     <div class="item">
-                        <h4>Forum Boards</h4>
+                        <h4>Software Engineering</h4>
                         <ul class="skills">
-                            <li><span class="expand" data-width="75"></span><em>vBulletin</em></li>
-                            <li><span class="expand" data-width="65"></span><em>IPB</em></li>
-                            <li><span class="expand" data-width="70"></span><em>phpBB</em></li>                     
-                        </ul>
-                    </div>
-                    <div class="item">
-                        <h4>Cloud Computing</h4>
-                        <ul class="skills">
-                            <li><span class="expand" data-width="75"></span><em>Microsoft Azure</em></li>
-                            <li><span class="expand" data-width="80"></span><em>Amazon AWS & EC2</em></li>
-                            <li><span class="expand" data-width="90"></span><em>Linode & RackSpace</em></li>                     
+                            <li><span class="expand" data-width="85"></span><em>Agile & SCRUM</em></li>
+                            <li><span class="expand" data-width="75"></span><em>Reverse Engineering</em></li>
+                            <li><span class="expand" data-width="80"></span><em>Project Management</em></li>                   
                         </ul>
                     </div>
                 </div>
@@ -190,7 +184,13 @@
                             <div id="projects" class="not_top">
                                 <div class="item">
                                     <h4>Paytm</h4>
-                                    <p>Overlooking and designing the new architectural platform for Paytm.com's core API. Using PHP, MongoDB, Node.js, MySQL, Backbone.js</p>
+                                    <p>
+                                        Working on India's largest realtime mobile e-commerce company for recharges and payments. 
+                                        Developing cross platform APIs to allow Single Signon and multi-order cart. 
+                                        Doing research and experimenting with new Technology verticals for Paytm.com. 
+                                        Integration of various Payment Gateways and Recharge modules for fulfilment of orders. 
+                                        Collaborating and communicating with different people across One97 for exploring possibilities and taking initiatives to build prototypes.
+                                    </p>
                                 </div> 
                             </div>
                         </div> <!-- end item -->
@@ -200,13 +200,17 @@
                             <div id="projects" class="not_top">
                                 <div class="item">
                                     <h4>sumHR</h4>
-                                    <p>Developing SaaS based HR management platform with powerful communication and collaboration tools; ideal for Startups and SMEs. As a second developer my role is to develop and maintain new features/functionalities, Enhancing existing features, Testing the features. Along with developing lifecycle of a product, including strategy, vision, design, UX, architecture, deployment etc.</p>
+                                    <p>
+                                        Developing SaaS based HR management platform with powerful communication and collaboration tools; ideal for Startups and SMEs. 
+                                        As a second developer my role is to develop and maintain new features/functionalities, Enhancing existing features, testing the features. 
+                                        Along with developing lifecycle of a product, including strategy, vision, design, UX, architecture, deployment etc.
+                                    </p>
                                 </div> 
                             </div>
                             <div id="projects" class="not_top">
                                 <div class="item">
                                     <h4>GreatIndianJobs</h4>
-                                    <p>Developing and maintaining Wordpress based free Job Board.</p>
+                                    <p>Developing and maintaining Wordpress based custom Open Job Board.</p>
                                 </div> 
                             </div>
                         </div> <!-- end item -->
@@ -287,40 +291,6 @@
                     <!-- END WORK EXPERIENCE -->
                     <!-- BEGIN PROJECTS -->
 
-                    <!-- END PROJECTS -->
-                    <!-- BEGIN PROJECTS -->
-                    <div id="miscellaneous" class="not_top">
-                        <h2>Miscellaneous</h2>
-                        <div class="left_item">
-                            <div class="item">
-                                <h4><strong>Languages known</strong></h4>
-                                <h5>English, Hindi, Gujarati, Marathi.</h5>
-                            </div> 
-                            <!-- end item -->
-                            <div class="item">
-                                <h4><strong>Nationality</strong></h4>
-                                <h5>Indian</h5>
-                            </div> 
-                            <!-- end item -->
-                            <div class="item">
-                                <h4><strong>Political View</strong></h4>
-                                <h5>Conservative Libertarian</h5>
-                            </div> 
-                            <!-- end item -->
-                        </div>
-                        <div class="right_item">
-                            <div class="item">
-                                <h4><strong>Likes</strong></h4>
-                                <h5>Reading, Traveling, Food, Movies</h5>
-                            </div> 
-                            <!-- end item -->
-                            <div class="item">
-                                <h4><strong>Interests</strong></h4>
-                                <h5>Hindu Mythology, Archeology, Sci-Fi, Start-ups, Tech BarCamps</h5>
-                            </div> 
-                            <!-- end item -->
-                        </div>
-                    </div>
                     <!-- END PROJECTS -->
                 </div>
                 <div class="right_content">
@@ -409,6 +379,44 @@
                     </div>
                     <!-- END EDUCATION -->
                 </div>
+                <div class="separator"></div>
+                <!-- BEGIN MISC -->
+                <div id="miscellaneous">
+                        <h2>Miscellaneous</h2>
+                        <div class="left_item">
+                            <div class="item">
+                                <h4><strong>Nationality</strong></h4>
+                                <h5>Indian</h5>
+                            </div> 
+                            <!-- end item -->
+                            <div class="item">
+                                <h4><strong>Political View</strong></h4>
+                                <h5>Conservative Libertarian</h5>
+                            </div> 
+                            <!-- end item -->
+                        </div>
+                        <div class="right_item">
+                            <div class="item">
+                                <h4><strong>Likes</strong></h4>
+                                <h5>Reading, Traveling, Food, Movies</h5>
+                            </div> 
+                            <!-- end item -->
+                        </div>
+                        <div class="right_item">
+                            <div class="item">
+                                <h4><strong>Interests</strong></h4>
+                                <h5>Hindu Mythology, Archeology, Sci-Fi, Start-ups, Tech BarCamps</h5>
+                            </div> 
+                            <!-- end item -->
+                        </div>
+                        <div class="right_item">
+                            <div class="item">
+                                <h4><strong>Languages known</strong></h4>
+                                <h5>English, Hindi, Gujarati, Marathi.</h5>
+                            </div> 
+                        </div>
+                    </div>
+                    <!-- END MISC -->
                 <div class="separator"></div>
                 <!-- BEGIN SKILLS -->
                 <div id="objectives">

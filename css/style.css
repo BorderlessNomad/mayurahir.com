@@ -125,12 +125,13 @@ sub {
     color:#ffffff;
     font-family: 'Voces', arial, serif;
     font-size:13px;
-    padding:9px 0 3px 8px;
+    padding: 0 5px;
     letter-spacing: 1px;
     font-style: normal;
     font-weight: bold;
+    line-height: 19px;
     height: 19px;
-    letter-spacing: 1px;
+    vertical-align: top;
 }
 
 #resume_skills h2 {
@@ -142,7 +143,7 @@ sub {
     border-color: #EB7A6B;
 }
 
-#objectives {
+#objectives, #miscellaneous {
     margin-right: 30px;
 }
 #objectives h2 {
@@ -335,8 +336,9 @@ blockquote {
     margin-top: 10px;
 }
 .left_item, .right_item {
-    width: 217px;
+    width: 220px;
     float: left;
+    margin-right: 5px;
 }
 
 .item {
