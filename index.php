@@ -1,20 +1,17 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
+<!doctype html>
+<html lang="en-IN">
     <head>
-        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-        <title>MAYUR AHIR</title>
-        <link rel="icon" type="image/png" href="./img/favicon.png"/>
-        <link href='http://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:light,regular,bold|Voces' rel='stylesheet' type='text/css'/>
-        <!--[if IE 6]>
-        <script type="text/javascript" src="./js/png.js"></script>
-        <script>
-          DD_belatedPNG.fix('#photo, img, #backtoptop, #skills ul li');
-        </script>
-        <style>
-        body {margin-top:40px;}
-        </style>
-        <![endif]--> 
+        <title>Mayur Ahir - Cloud & Realtime web applications developer</title>
 
+        <meta charset="utf-8"/>
+        <meta name="description" content="Web designer and developer with over five years of professional experience in the web industry developing cloud and realtime applications."/>
+        <meta name="author" content="Mayur Ahir - EANTRIX Labs"/>
+        <meta name="keywords" content="web, web design, web site, design portfolio, portfolio, web developer, developer, mobile app developer, application developer, mayur ahir, mayur, ahir, eantrix, eantrix labs, php, mysql, yii, agile toolkit, agile, node.js, socket.io, mongo db, coffeescript, web designer, full-stack developer, cloud computing, realtime, websocket, web sockets"/>
+        <meta http-equiv="Content-Type" content="text/plain;charset=utf-8"/>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+        <link rel="icon" type="image/png" href="./img/favicon.png"/>
+
+        <link href='http://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:light,regular,bold|Voces' rel='stylesheet' type='text/css'/>
         <link rel="stylesheet" href="./css/reset.css" type="text/css" />
         <link rel="stylesheet" href="./css/style.css" type="text/css" media="screen" />
         <link rel="stylesheet" href="./css/print.css" type="text/css" media="print" />
@@ -26,6 +23,16 @@
         <script type="text/javascript" src="./js/jquery.colortip.js"></script>
         <script type="text/javascript" src="./js/jquery.ufvalidator.1.0.4.js"></script>
         <script type="text/javascript" src="./js/main.js"></script>
+
+        <!--[if IE 6]>
+        <script type="text/javascript" src="./js/png.js"></script>
+        <script>
+            DD_belatedPNG.fix('#photo, img, #backtoptop, #skills ul li');
+        </script>
+        <style>
+            body {margin-top:40px;}
+        </style>
+        <![endif]-->
 
         <script type="text/javascript">
             jQuery(function ($) {
@@ -61,18 +68,18 @@
 
                 <div id="right_header">
                     <ul class="social_panel">
-                        <li><a href="http://www.facebook.com/ahirmayur" target="_blank" title="Facebook" class="blue-darker"><img src="./img/facebook.png" width="32" height="32" alt="Facebook" /></a></li>
-                        <li><a href="http://twitter.com/#!/ahirmayur" target="_blank" title="Twitter" class="blue"><img src="./img/twitter.png" width="32" height="32" alt="Twitter" /></a></li>
-                        <li><a href="http://plus.google.com/100464866035861410995" target="_blank" title="Google+" class="white"><img src="./img/google-plus.png" width="32" height="32" alt="Google+" /></a></li>
+                        <li><a href="https://facebook.com/ahirmayur" target="_blank" title="Facebook" class="blue-darker"><img src="./img/facebook.png" width="32" height="32" alt="Facebook" /></a></li>
+                        <li><a href="https://twitter.com/ahirmayur" target="_blank" title="Twitter" class="blue"><img src="./img/twitter.png" width="32" height="32" alt="Twitter" /></a></li>
+                        <li><a href="https://google.com/+MayurAhir" target="_blank" title="Google+" class="white"><img src="./img/google-plus.png" width="32" height="32" alt="Google+" /></a></li>
                         <li><a href="skype:ahirmayur" target="_blank" title="Skype" class="skyblue"><img src="./img/skype.png" width="32" height="32" alt="Skype" /></a></li>
-                        <li><a href="http://www.github.com/ahirmayur" target="_blank" title="GitHub" class="black"><img src="./img/github.png" width="32" height="32" alt="GitHub" /></a></li>
-                        <li class="last"><a href="http://in.linkedin.com/in/ahirmayur" target="_blank" title="LinkedIn" class="blue-dark"><img src="./img/linkedin.png" width="32" height="32" alt="LinkedIn" /></a></li>
+                        <li><a href="https://www.github.com/ahirmayur" target="_blank" title="GitHub" class="black"><img src="./img/github.png" width="32" height="32" alt="GitHub" /></a></li>
+                        <li class="last"><a href="https://linkedin.com/in/ahirmayur" target="_blank" title="LinkedIn" class="blue-dark"><img src="./img/linkedin.png" width="32" height="32" alt="LinkedIn" /></a></li>
                     </ul><!-- end .social_panel list -->
 
                     <ul class="main_panel">
-                        <li><a href="personal/resume.pdf" title="Download CV" class="print_button white"><img src="./img/print.png" width="32" height="32" alt="Download CV" /></a></li>
+                        <li><a href="./personal/resume.pdf" title="Download CV" class="print_button white"><img src="./img/print.png" width="32" height="32" alt="Download CV" /></a></li>
                         <li><a href="mailto:mayur@mayurahir.com" title="Contact me" class="white"><img src="./img/contact.png" width="32" height="32" alt="Contact me" /></a></li>
-                        <li class="last"><a href="personal/code_samples.zip" title="Download My Code Samples" class="white"><img src="./img/download.png" width="32" height="32" alt="Download CV" /></a></li>
+                        <li class="last"><a href="./personal/code_samples.zip" title="Download My Code Samples" class="white"><img src="./img/download.png" width="32" height="32" alt="Download CV" /></a></li>
 
                     </ul><!-- end .main_panel list -->
 
@@ -84,14 +91,6 @@
                     <h3 id="subtitle">Hacker, Hustler, Human <br/>who fell in &hearts; with Code</h3>
                     <div class="top_data">
                         <ul class="info">
-                            <?php /*
-                            <li class="phone">(+91) 90 2910 2835</li>
-                            <li class="info">Single, Male</li>
-                            <li class="email"><a href="mailto:mayur@mayurahir.com">mayur@mayurahir.com</a></li>
-                            <li class="birthday">18<sup>th</sup> December, 1989</li>
-                            <li class="website"><a href="#">www.mayurahir.com</a></li>
-                            <li class="address">Mumbai, Maharashtra, IN</li>
-                            */ ?>
                             <li class="info">Single, (&#9794;) Male living in</li>
                             <li class="address">Mumbai, Maharashtra, IN</li>
                             <li class="email">Reach me on, <a href="mailto:mayur@mayurahir.com">mayur@mayurahir.com</a></li>
@@ -120,7 +119,7 @@
                             <li><span class="expand" data-width="80"></span><em>JavaScript + jQuery/Knockout.js</em></li>
                             <li><span class="expand" data-width="75"></span><em>(x)HTML(5) & CSS(3) + Backbone.js</em></li>
                             <li><span class="expand" data-width="70"></span><em>Node.js + Express + WebSockets</em></li>
-                            <li><span class="expand" data-width="65"></span><em>C/C++/Java Core & Mobile Apps</em></li>                         
+                            <li><span class="expand" data-width="65"></span><em>C/C++/Java Core & Mobile Apps</em></li>
                         </ul>
                     </div>
                     <div class="item">
@@ -133,13 +132,13 @@
                     <div class="item">
                         <h4>Forum Boards</h4>
                         <ul class="skills">
-                            <li><span class="expand" data-width="65"></span><em>vBulletin/IPB/phpBB</em></li>                 
+                            <li><span class="expand" data-width="65"></span><em>vBulletin/IPB/phpBB</em></li>
                         </ul>
                     </div>
                     <div class="item">
                         <h4>CMS</h4>
                         <ul class="skills">
-                            <li><span class="expand" data-width="70"></span><em>WordPress/Joomla/Drupal</em></li>              
+                            <li><span class="expand" data-width="70"></span><em>WordPress/Joomla/Drupal</em></li>
                         </ul>
                     </div>
                 </div>
@@ -149,7 +148,7 @@
                         <ul class="skills">
                             <li><span class="expand" data-width="80"></span><em>Amazon AWS EC2 & RDS</em></li>
                             <li><span class="expand" data-width="70"></span><em>Microsoft Azure</em></li>
-                            <li><span class="expand" data-width="85"></span><em>Linode & RackSpace</em></li>                     
+                            <li><span class="expand" data-width="85"></span><em>Linode & RackSpace</em></li>
                         </ul>
                     </div>
                     <div class="item">
@@ -157,7 +156,7 @@
                         <ul class="skills">
                             <li><span class="expand" data-width="85"></span><em>Linux (Ubuntu/CentOS/RHEL)</em></li>
                             <li><span class="expand" data-width="80"></span><em>Windows (XP, 7, Server 2008)</em></li>
-                            <li><span class="expand" data-width="80"></span><em>Mac OSX</em></li>                     
+                            <li><span class="expand" data-width="80"></span><em>Mac OSX</em></li>
                         </ul>
                     </div>
                     <div class="item">
@@ -165,7 +164,7 @@
                         <ul class="skills">
                             <li><span class="expand" data-width="85"></span><em>Agile & SCRUM</em></li>
                             <li><span class="expand" data-width="75"></span><em>Reverse Engineering</em></li>
-                            <li><span class="expand" data-width="80"></span><em>Project Management</em></li>                   
+                            <li><span class="expand" data-width="80"></span><em>Project Management</em></li>
                         </ul>
                     </div>
                 </div>
@@ -185,13 +184,13 @@
                                 <div class="item">
                                     <h4>Paytm</h4>
                                     <p>
-                                        Working on India's largest realtime mobile e-commerce company for recharges and payments. 
-                                        Developing cross platform APIs to allow Single Signon and multi-order cart. 
-                                        Doing research and experimenting with new Technology verticals for Paytm.com. 
-                                        Integration of various Payment Gateways and Recharge modules for fulfilment of orders. 
+                                        Working on India's largest realtime mobile e-commerce company for recharges and payments.
+                                        Developing cross platform APIs to allow Single Signon and multi-order cart.
+                                        Doing research and experimenting with new Technology verticals for Paytm.com.
+                                        Integration of various Payment Gateways and Recharge modules for fulfilment of orders.
                                         Collaborating and communicating with different people across One97 for exploring possibilities and taking initiatives to build prototypes.
                                     </p>
-                                </div> 
+                                </div>
                             </div>
                         </div> <!-- end item -->
                         <div class="item">
@@ -201,17 +200,17 @@
                                 <div class="item">
                                     <h4>sumHR</h4>
                                     <p>
-                                        Developing SaaS based HR management platform with powerful communication and collaboration tools; ideal for Startups and SMEs. 
-                                        As a second developer my role is to develop and maintain new features/functionalities, Enhancing existing features, testing the features. 
+                                        Developing SaaS based HR management platform with powerful communication and collaboration tools; ideal for Startups and SMEs.
+                                        As a second developer my role is to develop and maintain new features/functionalities, Enhancing existing features, testing the features.
                                         Along with developing lifecycle of a product, including strategy, vision, design, UX, architecture, deployment etc.
                                     </p>
-                                </div> 
+                                </div>
                             </div>
                             <div id="projects" class="not_top">
                                 <div class="item">
                                     <h4>GreatIndianJobs</h4>
                                     <p>Developing and maintaining Wordpress based custom Open Job Board.</p>
-                                </div> 
+                                </div>
                             </div>
                         </div> <!-- end item -->
                         <div class="item">
@@ -223,7 +222,7 @@
                                     <h4><span>Dec 2010 - Mar 2011</span>VideoCentral</h4>
                                     <h5>O<sub>2</sub> Supply Incubator</h5>
                                     <p>An online video portal where users can watch, comment, socially shares the educational videos.                        </p>
-                                </div> 
+                                </div>
                                 <!-- end item -->
                                 <div class="item">
                                     <h4><span>Feb 2011 - Apr 2011</span>Inlite </h4>
@@ -244,37 +243,37 @@
                                     <h4><span>Apr 2010 - Aug 2010</span>GyanForums </h4>
                                     <h5>O<sub>2</sub> Supply Incubator</h5>
                                     <p>Online forum/community where users can post, view and get informed about latest happening around the education realm.</p>
-                                </div> 
+                                </div>
                                 <!-- end item -->
                                 <div class="item">
                                     <h4><span>Feb 2010 - Apr 2010</span>DSept9 </h4>
                                     <h5>The Septmber 9 Fashions</h5>
                                     <p>A website for Mumbai's leading fashion/garment manufacturer.</p>
-                                </div> 
+                                </div>
                                 <!-- end item -->
                                 <div class="item">
                                     <h4><span>Dec 2009 - Feb 2010</span>JSolutions </h4>
                                     <h5>jSolutions, LLC</h5>
                                     <p>An online portfolio for software developer and designer.</p>
-                                </div> 
+                                </div>
                                 <!-- end item -->
                                 <div class="item">
                                     <h4><span>Aug 2009 - Oct 2009</span>Lashkaria Group </h4>
                                     <h5>Lashkaria Construction Pvt. Ltd.</h5>
                                     <p>An online portfolio and introductory dynamic web portal for India's leading Real Estate developer.</p>
-                                </div> 
+                                </div>
                                 <!-- end item -->
                                 <div class="item">
                                     <h4><span>Dec 2008 - Jun 2009</span>Sapan Properties </h4>
                                     <h5>Sapan Properties Pvt. Ltd.</h5>
                                     <p>An online portfolio and introductory dynamic web portal for India's leading Real Estate developer.</p>
-                                </div> 
+                                </div>
                                 <!-- end item -->
                                 <div class="item">
                                     <h4><span>Aug 2008 - Nov 2008</span>KJSIEIT CSI </h4>
                                     <h5>Computer Society of India, Somaiya Students' Chapter</h5>
                                     <p>Inter-college community portal for students to share and learn.</p>
-                                </div> 
+                                </div>
                                 <!-- end item -->
                                 <div class="item">
                                     <h4><span>Sep 2006 - Aug 2008</span>TechKranti </h4>
@@ -283,9 +282,9 @@
                                         TechKranti was the bulletin board for all those who are in need for urgent consultancy of various syllabus, course materials etc.<br/>
                                         It had also provided the vast amount of free knowledge and attracted students form Engineering, Medical, Pharmacy and Management institutes.
                                     </p>
-                                </div> 
+                                </div>
                                 <!-- end item -->
-                            </div>                        
+                            </div>
                         </div> <!-- end item -->
                     </div>
                     <!-- END WORK EXPERIENCE -->
@@ -321,13 +320,13 @@
                             <h4><span>Sep 2011</span>Building scalable application using SaaS</h4>
                             <h5>RenaissancE 2011</h5>
                             <p>Open talk on SaaS future as a Winner of Annual National Technical Festival jointly organized by CSI and IEEE Students' Chapter.</p>
-                        </div> 
+                        </div>
                         <!-- end item -->
                         <div class="item">
                             <h4><span>Mar 2011</span>Designing excellent websites using Photoshop and CorelDraw </h4>
                             <h5>Computer Society of India (CSI) Students' Chapter</h5>
                             <p>A short term course for design enthusiasts who want to learn how to design and create an awsome UI for  websites.</p>
-                        </div> 
+                        </div>
                         <!-- end item -->
                         <div class="item">
                             <h4><span>Aug 2011</span>Introduction to Linux and modern Web Technologies</h4>
@@ -339,13 +338,13 @@
                             <h4><span>Sep 2010</span>Hitchhiker's guide to Ethical Hacking</h4>
                             <h5>RenaissancE 2010</h5>
                             <p>So Who is a hacker Anyway?, Finding Information on the Net, Hacking Windows, Getting your Hands Wet Tool, Exploring Remote Systems, Batch File Programming, TCP/IP:A Mammoth Description, How does a Virus Work, Nasty Scripts and Hostile Applets.</p>
-                        </div> 
+                        </div>
                         <!-- end item -->
                         <div class="item">
                             <h4><span>May 2010</span>DIY: Repair and Assemble your PC at NO COST</h4>
                             <h5>CSI and IEEE Students' Chapter</h5>
                             <p>How to repair your PC/Laptop at home with information and introduction to essential components such as Motherboard, Processor, PCI Cards, Hard Drive, EEPROP, Operating Systems etc. </p>
-                        </div> 
+                        </div>
                         <!-- end item -->
                     </div>
                     <!-- END EDUCATION -->
@@ -356,7 +355,7 @@
                             <h4><span>Aug 2008 - Dec 2010</span>Technology Head</h4>
                             <h5>Computer Society of India (CSI) Students' Chapter and Information Technology Students' Association (ITSA)</h5>
                             <p>Students from different educational institutes gather across and share their ideas and thought though CSI platform. Managing and allocating all the tech resources across the community and make sure that everyone being happy!</p>
-                        </div> 
+                        </div>
                         <!-- end item -->
                         <div class="item">
                             <h4><span>Dec 2010</span>GeekFaktory</h4>
@@ -374,7 +373,7 @@
                             <h4><span>Sep 2009</span>Winner of Technical Paper Presentation</h4>
                             <h5>RenaissancE 2009</h5>
                             <p>Presented a Technical Paper on &quot;<strong>Cloud Computing</strong>&quot; which included stuff like SaaS, PaaS, Scalability.</p>
-                        </div> 
+                        </div>
                         <!-- end item -->
                     </div>
                     <!-- END EDUCATION -->
@@ -387,33 +386,33 @@
                             <div class="item">
                                 <h4><strong>Nationality</strong></h4>
                                 <h5>Indian</h5>
-                            </div> 
+                            </div>
                             <!-- end item -->
                             <div class="item">
                                 <h4><strong>Political View</strong></h4>
                                 <h5>Conservative Libertarian</h5>
-                            </div> 
+                            </div>
                             <!-- end item -->
                         </div>
                         <div class="right_item">
                             <div class="item">
                                 <h4><strong>Likes</strong></h4>
                                 <h5>Reading, Traveling, Food, Movies</h5>
-                            </div> 
+                            </div>
                             <!-- end item -->
                         </div>
                         <div class="right_item">
                             <div class="item">
                                 <h4><strong>Interests</strong></h4>
                                 <h5>Hindu Mythology, Archeology, Sci-Fi, Start-ups, Tech BarCamps</h5>
-                            </div> 
+                            </div>
                             <!-- end item -->
                         </div>
                         <div class="right_item">
                             <div class="item">
                                 <h4><strong>Languages known</strong></h4>
                                 <h5>English, Hindi, Gujarati, Marathi.</h5>
-                            </div> 
+                            </div>
                         </div>
                     </div>
                     <!-- END MISC -->
@@ -456,43 +455,5 @@
 
             <!-- END CONTAINER -->
         </div>
-
-        <?php /*
-          <div id="bottom_container">
-          <div id="contact_form">
-          <h2><a name="contact">Contact me</a></h2>
-          <!-- BEGIN CONTACT FORM -->
-          <form name="contactme" id="contactme" action="#" method="post">
-          <table width="500" cellpadding="0" cellspacing="0" border="0">
-          <tr>
-          <td width="230" height="40">
-          <label for="name">Name: <span>*</span></label>
-          <input type="text" id="name" name="name" class="text_field req-string" tabindex="1"/>
-          </td>
-          <td rowspan="2">
-          <label for="phone" style="width:75px; margin-bottom: 5px;">Message: <span>*</span></label>
-          <textarea name="message" id="message" rows="5" cols="10" tabindex="4"></textarea>
-          </td>
-          </tr>
-          <tr>
-          <td  height="40">
-          <label for="phone">Phone: <span>*</span></label>
-          <input type="text" id="phone" name="phone" class="text_field req-string" tabindex="2" />
-          </td>
-          </tr>
-          <tr>
-          <td height="40">
-          <label for="email">Email: <span>*</span></label>
-          <input type="text" id="email" name="email" class="text_field req-email"  tabindex="3"/>
-          </td>
-          <td><div id="errorDiv1" class="error-div"></div>
-          <input type="submit" id="submit" name="submit" value="Send message!" tabindex="5"/>
-          </td>
-          </tr>
-          </table>
-          </form><!-- end contact form -->
-          </div><!-- end contact -->
-          </div>
-         */ ?>
     </body>
 </html>
