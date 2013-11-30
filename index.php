@@ -77,7 +77,7 @@
                     </ul><!-- end .social_panel list -->
 
                     <ul class="main_panel">
-                        <li><a href="./personal/resume.pdf" title="Download CV" class="print_button white"><img src="./img/print.png" width="32" height="32" alt="Download CV" /></a></li>
+                        <li><a href="./personal/resume.pdf" title="Download CV" class="white"><img src="./img/print.png" width="32" height="32" alt="Download CV" /></a></li>
                         <li><a href="mailto:mayur@mayurahir.com" title="Contact me" class="white"><img src="./img/contact.png" width="32" height="32" alt="Contact me" /></a></li>
                         <li class="last"><a href="./personal/code_samples.zip" title="Download My Code Samples" class="white"><img src="./img/download.png" width="32" height="32" alt="Download CV" /></a></li>
 
