@@ -92,7 +92,7 @@
                     <div class="top_data">
                         <ul class="info">
                             <li class="info">Single, (&#9794;) Male living in</li>
-                            <li class="address">Mumbai, Maharashtra, IN</li>
+                            <li class="address">Mumbai, MH, India</li>
                             <li class="email">Reach me on, <a href="mailto:mayur@mayurahir.com">mayur@mayurahir.com</a></li>
                         </ul>
                         <!-- end .info list -->
@@ -418,6 +418,8 @@
                     <!-- END MISC -->
                 <div class="separator"></div>
                 <!-- BEGIN SKILLS -->
+                <?php
+                /*
                 <div id="objectives">
                     <h2>Objectives</h2>
                     <div class="left_content">
@@ -448,6 +450,8 @@
                     </div>
                 </div>
                 <!-- END SKILLS -->
+                */
+                ?>
             </div>
             <!-- MAIN CONTENT -->
 
