@@ -89,7 +89,7 @@ sub {
 }
 
 /* SKILLS */
-#resume_skills {
+#resume_skills, #copyrights {
     width: 900px;
 }
 .skills {
@@ -107,7 +107,6 @@ sub {
     -moz-box-shadow: 0px 1px 1px 0px inset;
     -webkit-box-shadow: 0px 1px 1px 0px inset;
 }
-
 .skills li span {
     background: #333;
     width: 360px;
@@ -154,7 +153,15 @@ sub {
 #objectives .item {
     border-color: #A135E3;
 }
-
+#copyrights {
+    text-align: center;
+}
+#copyrights p {
+    font-size: 1.1em;
+    font-family: 'Voces', arial, serif;
+    color: #333;
+    line-height: 1.4em;
+}
 #work_experience h2 {
     background-color: #35D1E4;
     color: #000;

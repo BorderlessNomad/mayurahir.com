@@ -11,7 +11,7 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
         <link rel="icon" type="image/png" href="./img/favicon.png"/>
 
-        <!-- <link href='//fonts.googleapis.com/css?family=Yanone+Kaffeesatz:light,regular,bold|Voces' rel='stylesheet' type='text/css'/> -->
+        <link href='//fonts.googleapis.com/css?family=Yanone+Kaffeesatz:light,regular,bold|Voces' rel='stylesheet' type='text/css'/>
         <link rel="stylesheet" href="./css/reset.css" type="text/css" />
         <link rel="stylesheet" href="./css/style.css" type="text/css" media="screen" />
         <link rel="stylesheet" href="./css/print.css" type="text/css" media="print" />
@@ -92,8 +92,8 @@
                     <h3 id="subtitle">Hacker, Hustler, Human <br/>who fell in &hearts; with Code</h3>
                     <div class="top_data">
                         <ul class="info">
-                            <li class="info">Single, (&#9794;) Male living in</li>
-                            <li class="address">Mumbai, MH, India</li>
+                            <li class="info">Single, (&#9794;) Male</li>
+                            <li class="address">Living in Mumbai, MH, India</li>
                             <li class="email">Reach me on, mayur@mayurahir.com</li>
                         </ul>
                         <!-- end .info list -->
@@ -186,18 +186,21 @@
                                 <div class="item">
                                     <h4><span>April 2013 - Till date</span>Elexu iVO </h4>
                                     <h5>Elexu Technologies</h5>
-                                    <p>...</p>
+                                    <p>Elexu Interactive Video Overlays - iVO is a high quality, dynamic and interactive overlays presentation & distribution network. Elexu iVO allows clients to monetize content views, social recommendations and other second-screen activity through targeted, contextualized in-video donations and purchasing opportunities. Built using modern technologies to faclitate realtime and hassle free communication.
+                                    <br/>
+                                    My role is to design and architect whole platform from scratch, starting from inital prototype to fully tested project including content capturing and analytics for admins. Using Node.js, PHP, MySQL, MongoDB, Redis, Express and WebSockets supporting all modern browsers with custom made video player.
+                                    </p>
                                 </div>
                                 <!-- end item -->
                                 <div class="item">
                                     <h4><span>Aug 2013 - Oct 2013</span>NNU Law </h4>
                                     <h5>Elexu Technologies</h5>
-                                    <p>...</p>
+                                    <p>NNU Immigration, a London-based U.S. immigration law practice offering sophisticated U.S. immigration services to global businesses, entrepreneurs and high net-worth private clients across all industries including media, technology and finance. As a Elexu's Technology partner my role was to design & implement consumer centric CMS using PHP, Joomla!, MySQL. Goal was to make it is easy to use and featureful to accomodate dynamic content placement within website.</p>
                                 </div> <!-- end item -->
                             </div>
                         </div> <!-- end item -->
                         <div class="item">
-                            <h4><span>July 2012 - Present</span>Senior Lead Developer</h4>
+                            <h4><span>July 2012 - Present</span>Senior Software Engineer</h4>
                             <h5>One97 Communications Pvt. Ltd. (Full-time)</h5>
                             <div id="projects" class="not_top">
                                 <div class="item">
@@ -213,7 +216,7 @@
                             </div>
                         </div> <!-- end item -->
                         <div class="item">
-                            <h4><span>June 2011 - June 2012</span>Sr. Software Engineer</h4>
+                            <h4><span>June 2011 - June 2012</span>Senior Software Developer</h4>
                             <h5>Sutra Services Pvt. Ltd. (Full-time)</h5>
                             <div id="projects" class="not_top">
                                 <div class="item">
@@ -400,40 +403,40 @@
                 <div class="separator"></div>
                 <!-- BEGIN MISC -->
                 <div id="miscellaneous">
-                        <h2>Miscellaneous</h2>
-                        <div class="left_item">
-                            <div class="item">
-                                <h4><strong>Nationality</strong></h4>
-                                <h5>Indian</h5>
-                            </div>
-                            <!-- end item -->
-                            <div class="item">
-                                <h4><strong>Political View</strong></h4>
-                                <h5>Conservative Libertarian</h5>
-                            </div>
-                            <!-- end item -->
+                    <h2>Miscellaneous</h2>
+                    <div class="left_item">
+                        <div class="item">
+                            <h4><strong>Nationality</strong></h4>
+                            <h5>Indian</h5>
                         </div>
-                        <div class="right_item">
-                            <div class="item">
-                                <h4><strong>Likes</strong></h4>
-                                <h5>Reading, Traveling, Food, Movies</h5>
-                            </div>
-                            <!-- end item -->
+                        <!-- end item -->
+                        <div class="item">
+                            <h4><strong>Political View</strong></h4>
+                            <h5>Conservative Libertarian</h5>
                         </div>
-                        <div class="right_item">
-                            <div class="item">
-                                <h4><strong>Interests</strong></h4>
-                                <h5>Hindu Mythology, Archeology, Sci-Fi, Start-ups, Tech BarCamps</h5>
-                            </div>
-                            <!-- end item -->
+                        <!-- end item -->
+                    </div>
+                    <div class="right_item">
+                        <div class="item">
+                            <h4><strong>Likes</strong></h4>
+                            <h5>Reading, Traveling, Food, Movies</h5>
                         </div>
-                        <div class="right_item">
-                            <div class="item">
-                                <h4><strong>Languages known</strong></h4>
-                                <h5>English, Hindi, Gujarati, Marathi.</h5>
-                            </div>
+                        <!-- end item -->
+                    </div>
+                    <div class="right_item">
+                        <div class="item">
+                            <h4><strong>Interests</strong></h4>
+                            <h5>Hindu Mythology, Archeology, Sci-Fi, Start-ups, Tech BarCamps</h5>
+                        </div>
+                        <!-- end item -->
+                    </div>
+                    <div class="right_item">
+                        <div class="item">
+                            <h4><strong>Languages known</strong></h4>
+                            <h5>English, Hindi, Gujarati, Marathi.</h5>
                         </div>
                     </div>
+                </div>
                     <!-- END MISC -->
                 <div class="separator"></div>
                 <!-- BEGIN SKILLS -->
@@ -476,7 +479,20 @@
 
             <div class="separator"></div>
 
+            <div id="copyrights">
+                <p>&copy; Mayur Ahir <?php auto_copyright('2006'); ?>.</p>
+            </div>
+
             <!-- END CONTAINER -->
         </div>
     </body>
 </html>
+
+<?php
+function auto_copyright($year = 'auto') {
+    if (intval($year) == 'auto') { $year = date('Y'); }
+    if (intval($year) == date('Y')) { echo intval($year); }
+    if (intval($year) < date('Y')) { echo intval($year) . ' - ' . date('Y'); }
+    if (intval($year) > date('Y')) { echo date('Y'); }
+}
+?>
