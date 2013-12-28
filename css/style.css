@@ -6,7 +6,7 @@ body {
     background-image: url('../img/background.jpg');
     background-repeat: no-repeat;
     background-position:top center;
-    background-attachment:fixed;    /* delete this line if you don't want the ue background to be fixed */
+    background-attachment:fixed;
 }
 
 /* HEADINGS */
@@ -14,25 +14,25 @@ h1, h2, h3, h4, h5 {
     font-family: 'Yanone Kaffeesatz', arial, serif;
     font-weight:bold;
 }
-h1 { 
+h1 {
     font-size:60px;
     color:#fa6900;
     text-transform:uppercase;
 }
-h2 { 
+h2 {
     font-size:34px;
     color:#fa6900;
 }
-h3 { 
+h3 {
     font-size:30px;
     color:#f38630;
     text-transform:uppercase;
 }
-h4 { 
+h4 {
     font-size:28px;
     color:#333;
 }
-h5 { 
+h5 {
     font-size:22px;
     color:#333;
     font-weight:300;
@@ -97,21 +97,21 @@ sub {
     margin-top: 5px;
 }
 .skills li {
-    margin-bottom:15px; 
-    background:#D5D5D5; 
-    height:20px; 
+    margin-bottom:15px;
+    background:#D5D5D5;
+    height:20px;
     -moz-border-radius:4px;
     -webkit-border-radius:4px;
-    border-radius:4px; 
+    border-radius:4px;
     box-shadow:0px 1px 1px 0px inset;
     -moz-box-shadow: 0px 1px 1px 0px inset;
     -webkit-box-shadow: 0px 1px 1px 0px inset;
 }
 
 .skills li span {
-    background: #333; 
+    background: #333;
     width: 360px;
-    height:19px; 
+    height:19px;
     float: left;
     display: inline-block;
     margin:1px 0 0 0;
@@ -120,8 +120,8 @@ sub {
     -webkit-border-radius:4px;
     border-radius:4px;
 }
-.skills li em { 
-    position:relative; 
+.skills li em {
+    position:relative;
     color:#ffffff;
     font-family: 'Voces', arial, serif;
     font-size:13px;
@@ -252,20 +252,18 @@ ul.info li {
     font-family: 'Yanone Kaffeesatz', arial, serif;
     font-size:22px;
     color:#333;
+    width:360px;
     font-weight:bold;
     display:inline-block;
+    vertical-align: middle;
     padding-left:25px;
-    margin-top:7px;
-    margin-right:7px;
-    width:auto;
-    float:left;
-    height:25px;
+    margin:4px;
 }
 ul.info li a {
+    font-size:22px;
     margin:0;
     text-decoration:none;
     color:#333;
-    height: 25px;
 }
 ul.info li a:hover {
     text-decoration:none;
@@ -484,7 +482,7 @@ blockquote {
 
 #contact_form #contactme .error-input ,
 #contact_form #contactme .error-both input,
-#contact_form #contactme .error-same input { 
+#contact_form #contactme .error-same input {
     border:1px solid #f38630;
 }
 #contact_form #contactme .error-div {

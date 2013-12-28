@@ -11,7 +11,7 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
         <link rel="icon" type="image/png" href="./img/favicon.png"/>
 
-        <link href='http://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:light,regular,bold|Voces' rel='stylesheet' type='text/css'/>
+        <!-- <link href='//fonts.googleapis.com/css?family=Yanone+Kaffeesatz:light,regular,bold|Voces' rel='stylesheet' type='text/css'/> -->
         <link rel="stylesheet" href="./css/reset.css" type="text/css" />
         <link rel="stylesheet" href="./css/style.css" type="text/css" media="screen" />
         <link rel="stylesheet" href="./css/print.css" type="text/css" media="print" />
@@ -35,11 +35,12 @@
         <![endif]-->
 
         <script type="text/javascript">
-            jQuery(function ($) {
+            $(function ($) {
                 var g_width = 417;
-                $('#resume_skills ul li span').each(function(i, elem){
-                    if(typeof $(this).attr('data-width') != 'undefined') {
-                        var w = g_width * $(this).attr('data-width') / 100 + "px";
+                $('#resume_skills ul li span').each(function(i, elem) {
+                    var d_width = $(this).data('width');
+                    if(d_width != null) {
+                        var w = (g_width * d_width / 100) + "px";
                         $(this).css('width', w);
                     }
                 });
@@ -93,7 +94,7 @@
                         <ul class="info">
                             <li class="info">Single, (&#9794;) Male living in</li>
                             <li class="address">Mumbai, MH, India</li>
-                            <li class="email">Reach me on, <a href="mailto:mayur@mayurahir.com">mayur@mayurahir.com</a></li>
+                            <li class="email">Reach me on, mayur@mayurahir.com</li>
                         </ul>
                         <!-- end .info list -->
                         <div class="quote">
@@ -178,7 +179,25 @@
                     <div id="work_experience">
                         <h2 class="title">Work Experience</h2>
                         <div class="item">
-                            <h4><span>July 2012 - Present</span>Platform Geek</h4>
+                            <h4><span>April 2013 - Till date</span>Senior Lead Developer </h4>
+                            <h5>E|ANTRIX Labs (Contract)</h5>
+                            <p>Working as freelance and contract based consultant/developer to assist various Indian and International SMEs, start-ups. Building full-stack platforms as per with design and product specifications. Assisting organizations to scale-up their existing system and integrating various 3rd party web-services to their platform.</p>
+                            <div id="projects" class="not_top">
+                                <div class="item">
+                                    <h4><span>April 2013 - Till date</span>Elexu iVO </h4>
+                                    <h5>Elexu Technologies</h5>
+                                    <p>...</p>
+                                </div>
+                                <!-- end item -->
+                                <div class="item">
+                                    <h4><span>Aug 2013 - Oct 2013</span>NNU Law </h4>
+                                    <h5>Elexu Technologies</h5>
+                                    <p>...</p>
+                                </div> <!-- end item -->
+                            </div>
+                        </div> <!-- end item -->
+                        <div class="item">
+                            <h4><span>July 2012 - Present</span>Senior Lead Developer</h4>
                             <h5>One97 Communications Pvt. Ltd. (Full-time)</h5>
                             <div id="projects" class="not_top">
                                 <div class="item">
@@ -214,14 +233,14 @@
                             </div>
                         </div> <!-- end item -->
                         <div class="item">
-                            <h4><span>Aug 2006 - June 2011</span>Founder and Lead Developer </h4>
-                            <h5>E|ANTRIX (Contract / Part-time)</h5>
+                            <h4><span>Aug 2006 - June 2011</span>Founder & Head of Development </h4>
+                            <h5>E|ANTRIX Labs (Freelance)</h5>
                             <p>Low cost quality freelance work for various industries situated Pan-India. Right from the design/UI to development/programming; with Search Engine Optimization and other tasks related to product such as marketing etc.</p>
                             <div id="projects" class="not_top">
                                 <div class="item">
                                     <h4><span>Dec 2010 - Mar 2011</span>VideoCentral</h4>
                                     <h5>O<sub>2</sub> Supply Incubator</h5>
-                                    <p>An online video portal where users can watch, comment, socially shares the educational videos.                        </p>
+                                    <p>An online video portal where users can watch, comment, socially shares the educational videos.</p>
                                 </div>
                                 <!-- end item -->
                                 <div class="item">
