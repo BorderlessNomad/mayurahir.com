@@ -115,57 +115,42 @@
                     <div class="item">
                         <h4>Programming</h4>
                         <ul class="skills">
-                            <li><span class="expand" data-width="90"></span><em>PHP + Yii/Zend/CakePHP MVC Frameworks</em></li>
-                            <li><span class="expand" data-width="80"></span><em>MySQL & MongoDB/NoSQL</em></li>
-                            <li><span class="expand" data-width="80"></span><em>JavaScript + jQuery/Knockout.js</em></li>
-                            <li><span class="expand" data-width="75"></span><em>(x)HTML(5) & CSS(3) + Backbone.js</em></li>
-                            <li><span class="expand" data-width="70"></span><em>Node.js + Express + WebSockets</em></li>
-                            <li><span class="expand" data-width="65"></span><em>C/C++/Java Core & Mobile Apps</em></li>
+                            <li><span class="expand" data-width="90"></span><em>PHP + Yii & Agile Toolkit (MVC Frameworks)</em></li>
+                            <li><span class="expand" data-width="80"></span><em>Node.js + Express + WebSockets + Primis.io</em></li>
+                            <li><span class="expand" data-width="80"></span><em>MySQL, MongoDB, Redis (NoSQL)</em></li>
+                            <li><span class="expand" data-width="70"></span><em>JavaScript + Knockout.js + Backbone.js</em></li>
+                            <li><span class="expand" data-width="50"></span><em>C/C++/Java & Mobile Apps</em></li>
                         </ul>
                     </div>
                     <div class="item">
-                        <h4>Graphics and media</h4>
+                        <h4>Forum Boards / CMS</h4>
                         <ul class="skills">
-                            <li><span class="expand" data-width="60"></span><em>Photoshop/Core Draw</em></li>
-                            <li><span class="expand" data-width="40"></span><em>Flash/Illustrator</em></li>
-                        </ul>
-                    </div>
-                    <div class="item">
-                        <h4>Forum Boards</h4>
-                        <ul class="skills">
-                            <li><span class="expand" data-width="65"></span><em>vBulletin/IPB/phpBB</em></li>
-                        </ul>
-                    </div>
-                    <div class="item">
-                        <h4>CMS</h4>
-                        <ul class="skills">
-                            <li><span class="expand" data-width="70"></span><em>WordPress/Joomla/Drupal</em></li>
+                            <li><span class="expand" data-width="60"></span><em>vBulletin/IPB/phpBB</em></li>
+                            <li><span class="expand" data-width="65"></span><em>WordPress/Joomla/Drupal</em></li>
                         </ul>
                     </div>
                 </div>
                 <div class="right_content">
                     <div class="item">
-                        <h4>Cloud Computing</h4>
+                        <h4>Cloud Computing / DevOps</h4>
                         <ul class="skills">
-                            <li><span class="expand" data-width="80"></span><em>Amazon AWS EC2 & RDS</em></li>
-                            <li><span class="expand" data-width="70"></span><em>Microsoft Azure</em></li>
-                            <li><span class="expand" data-width="85"></span><em>Linode & RackSpace</em></li>
+                            <li><span class="expand" data-width="80"></span><em>Amazon AWS (EC2 & RDS) + Windows Azure</em></li>
+                            <li><span class="expand" data-width="75"></span><em>Bash/Shell + In-house servers</em></li>
                         </ul>
                     </div>
                     <div class="item">
-                        <h4>Operating Systems</h4>
+                        <h4>Engineering & Management</h4>
                         <ul class="skills">
-                            <li><span class="expand" data-width="85"></span><em>Linux (Ubuntu/CentOS/RHEL)</em></li>
-                            <li><span class="expand" data-width="80"></span><em>Windows (XP, 7, Server 2008)</em></li>
-                            <li><span class="expand" data-width="80"></span><em>Mac OSX</em></li>
+                            <li><span class="expand" data-width="85"></span><em>Agile + SCRUM</em></li>
+                            <li><span class="expand" data-width="75"></span><em>Realtime apps + SaaS</em></li>
+                            <li><span class="expand" data-width="80"></span><em>Reverse Engineering + Project Management</em></li>
                         </ul>
                     </div>
                     <div class="item">
-                        <h4>Software Engineering</h4>
+                        <h4>Graphics and multi-media</h4>
                         <ul class="skills">
-                            <li><span class="expand" data-width="85"></span><em>Agile & SCRUM</em></li>
-                            <li><span class="expand" data-width="75"></span><em>Reverse Engineering</em></li>
-                            <li><span class="expand" data-width="80"></span><em>Project Management</em></li>
+                            <li><span class="expand" data-width="60"></span><em>Photoshop/Core Draw</em></li>
+                            <li><span class="expand" data-width="40"></span><em>Flash/Illustrator</em></li>
                         </ul>
                     </div>
                 </div>
