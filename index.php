@@ -93,7 +93,7 @@
                     <div class="top_data">
                         <ul class="info">
                             <li class="info">Single, (&#9794;) Male</li>
-                            <li class="address">Living in Mumbai, MH, India</li>
+                            <li class="address">Living in London, UK</li>
                             <li class="email">Reach me on, mayur@mayurahir.com</li>
                         </ul>
                         <!-- end .info list -->
